@@ -16,7 +16,7 @@ timezone:
 
 title: Kassem Hmady # the main title
 
-tagline: Learning Computer Graphics # it will display as the subtitle
+tagline: Learning Computer Graphics and Hardware Design # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  computer graphics, OpenGL, Vulkan, GLS
